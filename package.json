@@ -1,0 +1,24 @@
+{
+  "name": "drunkxmas",
+  "version": "1.0.0",
+  "description": "Welcome to Drunk Xmas!",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doctafaustus/drunkxmas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doctafaustus/drunkxmas/issues"
+  },
+  "homepage": "https://github.com/doctafaustus/drunkxmas#readme"
+}
